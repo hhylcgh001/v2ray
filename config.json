@@ -8,7 +8,7 @@
     "settings": {
       "clients": [
         {
-          "id": "your_uuid",
+          "id": "whl177a6-a2d9-47c9-9932-5bcb68939565",
           "alterId": 64
         }
       ]
@@ -17,8 +17,9 @@
       "network": "ws"
     }
   },
+  "inboundDetour": [],
   "outbound": {
     "protocol": "freedom",
-    "settings": {}
+   "settings": {}
   }
 }
